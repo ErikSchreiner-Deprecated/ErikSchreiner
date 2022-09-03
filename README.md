@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erik Schreiner
 - 👀 I’m interested in nanotechnology, the outdoors, and tinkering.
-- 🌱 I’m currently learning about mitigation of climate change, electrodeposition of FeCo alloys (for their soft magnetic properties), and babylon.js.
+- 🌱 I’m currently working with a non-profit working on climate change mitigation.
 - 📫 How to reach me erikschreiner@college.harvard.edu (any feedback/critism welcomed!)
 
 My "PHYSCI-70" repository is from a class I took my Sophomore Spring (2021).
